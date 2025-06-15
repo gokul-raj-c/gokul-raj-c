@@ -4,7 +4,7 @@
 
 - 📫 Reach me **gokulrajc63@gmail.com**
 
-### About Me
+### About Me:
  
  ⚡ MCA Student <br>
  😄 Check my ✨ [Portfolio](https://gokul-raj-c.github.io/myportfolio/) <br>
@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/gokul-raj-c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gokul-raj-c" height="30" width="40" /></a>
-<a href="[https://fb.com/thomas baiju](https://www.facebook.com/people/Gokul-Raj-C/pfbid02qGk5dXgakvwxcet7BfJzWMvP2MWaCNjp8vsdwnPnzTi97PHRRsjE4ja8mK2SPZyTl/?rdid=EFOkYjZGzoF40RYE&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1Dft2hwXm7%2F)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gokul raj c" height="30" width="40" /></a>
+<a href="[https://fb.com/gokul raj c](https://www.facebook.com/people/Gokul-Raj-C/pfbid02qGk5dXgakvwxcet7BfJzWMvP2MWaCNjp8vsdwnPnzTi97PHRRsjE4ja8mK2SPZyTl/?rdid=EFOkYjZGzoF40RYE&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1Dft2hwXm7%2F)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gokul raj c" height="30" width="40" /></a>
 <a href="https://www.instagram.com/gokulrajc_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gokulrajc_" height="30" width="40" /></a>
 </p>
 
