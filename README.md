@@ -4,9 +4,7 @@
 
 - 📫 Reach me **gokulrajc63@gmail.com**
 
-### About
-
- **About Me**
+### About Me
  
  ⚡ MCA Student <br>
  😄 Check my ✨ [Portfolio](https://gokul-raj-c.github.io/myportfolio/) <br>
