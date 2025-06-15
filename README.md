@@ -1,6 +1,6 @@
 <h1 align="center">Hei 👋, Myself Gokul Raj C</h1>
 
-- 🌱 Currently Pursuing **MCA** at **MITS(Muthoot Institute Of Technology And Science)**
+- 🌱 Currently Pursuing **MCA** at **MITS (Muthoot Institute Of Technology And Science)**
 
 - 📫 Reach me **gokulrajc63@gmail.com**
 
