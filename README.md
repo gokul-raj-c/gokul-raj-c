@@ -28,13 +28,13 @@
 <tr>
 <td width="50%" align="center" valign="top">
 <h3>💻 Programming Languages</h3>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,php,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,php,js,html5,css3" />
 <br/><br/>
 </td>
 
 <td width="50%" align="center" valign="top">
 <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask" />
+<img src="https://skillicons.dev/icons?i=flask,react,nodejs,express" />
 <br/><br/>
 </td>
 </tr>
@@ -48,7 +48,7 @@
 
 <td width="50%" align="center" valign="top">
 <h3>🧰 Tools & Platforms</h3>
-<img src="https://skillicons.dev/icons?i=git,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 <br/><br/>
 </td>
 </tr>
