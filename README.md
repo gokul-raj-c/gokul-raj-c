@@ -28,7 +28,11 @@
 <tr>
 <td width="50%" align="center" valign="top">
 <h3>💻 Programming Languages</h3>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,php,js,html5,css3" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,php,js" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" 
+alt="html5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" 
+alt="css3" width="40" height="40"/>
 <br/><br/>
 </td>
 
