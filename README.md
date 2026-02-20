@@ -30,27 +30,22 @@
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp,php,js,html,css" />
 <br/><br/>
 </td>
-
 <td width="50%" align="center">
 <h3>📚 Frameworks & Libraries</h3>
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask" />
 <br/><br/>
 </td>
 </tr>
-
+<tr>
 <td width="50%" align="center">
 <h3>🗄️ Databases</h3>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 <br/><br/>
 </td>
-</tr>
-
-<tr>
 <td width="50%" align="center">
 <h3>🧰 Tools & Platforms</h3>
 <img src="https://skillicons.dev/icons?i=git,linux,vscode" />
 </td>
-
 </tr>
 </table>
 </p>
