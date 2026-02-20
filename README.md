@@ -41,9 +41,7 @@
 <tr>
 <td width="50%" align="center">
 <h3>🤖 AI & Machine Learning</h3>
-<p>
-Machine Learning • Deep Learning • YOLO • Computer Vision
-</p>
+<img src="https://skillicons.dev/icons?i=Machine Learning,Deep Learning,YOLO" />
 <br/>
 </td>
 
@@ -62,9 +60,7 @@ Machine Learning • Deep Learning • YOLO • Computer Vision
 
 <td width="50%" align="center">
 <h3>🚀 Core Concepts</h3>
-<p>
-Data Structures • OOP • DBMS • Web Development • REST APIs
-</p>
+<img src="https://skillicons.dev/icons?i=Data Structures,OOP,DBMS,Web Development" />
 </td>
 </tr>
 </table>
