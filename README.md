@@ -38,13 +38,6 @@
 </td>
 </tr>
 
-<tr>
-<td width="50%" align="center">
-<h3>🤖 AI & Machine Learning</h3>
-<img src="https://skillicons.dev/icons?i=Machine Learning,Deep Learning,YOLO" />
-<br/>
-</td>
-
 <td width="50%" align="center">
 <h3>🗄️ Databases</h3>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
@@ -58,10 +51,6 @@
 <img src="https://skillicons.dev/icons?i=git,linux,vscode" />
 </td>
 
-<td width="50%" align="center">
-<h3>🚀 Core Concepts</h3>
-<img src="https://skillicons.dev/icons?i=Data Structures,OOP,DBMS,Web Development" />
-</td>
 </tr>
 </table>
 </p>
