@@ -19,33 +19,39 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/gokul-raj-c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gokul-raj-c" height="30" width="40" /></a><a href="https://www.instagram.com/gokulrajc_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gokulrajc_" height="30" width="40" /></a>
+
  
 ## 🛠️ Skills
-
 <p align="center">
-<table>
+<table align="center">
+
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 <h3>💻 Programming Languages</h3>
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp,php,js,html,css" />
 <br/><br/>
 </td>
-<td width="50%" align="center">
+
+<td width="50%" align="center" valign="top">
 <h3>📚 Frameworks & Libraries</h3>
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask" />
 <br/><br/>
 </td>
 </tr>
+
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 <h3>🗄️ Databases</h3>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 <br/><br/>
 </td>
-<td width="50%" align="center">
+
+<td width="50%" align="center" valign="top">
 <h3>🧰 Tools & Platforms</h3>
 <img src="https://skillicons.dev/icons?i=git,linux,vscode" />
+<br/><br/>
 </td>
 </tr>
+
 </table>
 </p>
