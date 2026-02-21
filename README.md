@@ -12,7 +12,7 @@
  
  ⚡ MCA Student <br>
  ⚡ Basic MERN Stack <br>
- 😄 Check my ✨ [Portfolio](https://gokul-raj-c.github.io/myportfolio/) <br>
+ 😄 Check my ✨ [Portfolio](https://portfolio-ten-gold-57.vercel.app/) <br>
 
 
 
