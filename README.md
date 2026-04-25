@@ -16,15 +16,17 @@
 
 
 
-<p align="left">
-  <strong>Connect with me:</strong>
+<h3 align="left">Connect with me:
   <a href="https://www.linkedin.com/in/gokul-raj-c" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
   <a href="https://www.instagram.com/gokulrajc_" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
-</p>
+</h3>
+
+
+
  
 ## 🛠️ Skills
 <p align="center">
