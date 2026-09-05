@@ -6,13 +6,16 @@
 
 <div align="left">
 
-- 🌱 Currently Pursuing **MCA** at **MITS (Muthoot Institute Of Technology And Science)**  
+- **Data Science Trainee** at **SMEC Technologies**
+- Completed **MCA** from **MITS (Muthoot Institute Of Technology And Science)**
+- Reach me **gokulrajc63@gmail.com**  
 
-- 📫 Reach me **gokulrajc63@gmail.com**  
 
 ### About Me:
- 
-⚡ MCA Student <br>
+
+⚡ Junior Developer<br>
+⚡ Python | Data Science | Machine Learning | AI <br>
+⚡ MCA Graduate <br>
 ⚡ Basic MERN Stack <br>
 😄 Check my ✨ [Portfolio](https://portfolio-ten-gold-57.vercel.app/) <br>
 
