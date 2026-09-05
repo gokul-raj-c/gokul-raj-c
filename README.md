@@ -52,7 +52,7 @@
 <td width="50%" align="center" valign="top">
 <h3>🤖 AI, ML & Deep Learning</h3>
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=tensorflow" />
 
 <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" width="45" height="45"/>
 
