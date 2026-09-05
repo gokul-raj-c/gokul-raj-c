@@ -14,7 +14,7 @@
 ### About Me:
 
 ⚡ Junior Developer<br>
-⚡ Python | Data Science | Machine Learning | AI <br>
+⚡ Python | Data Science | Machine Learning | Deep Learning | AI <br>
 ⚡ MCA Graduate <br>
 ⚡ Basic MERN Stack <br>
 😄 Check my ✨ [Portfolio](https://portfolio-ten-gold-57.vercel.app/) <br>
@@ -48,6 +48,30 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
 <br/><br/>
 </td>
+
+<tr>
+<td width="50%" align="center" valign="top">
+<h3>🤖 AI, ML & Deep Learning</h3>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+
+<img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" width="45" height="45"/>
+
+<br/><br/>
+</td>
+
+<td width="50%" align="center" valign="top">
+<h3>📊 Data Science & Analytics</h3>
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45"/>
+
+<br/><br/>
+</td>
+</tr>
 
 <td width="50%" align="center" valign="top">
 <h3>📚 Frameworks & Libraries</h3>
