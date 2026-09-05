@@ -49,7 +49,6 @@
 <br/><br/>
 </td>
 
-<tr>
 <td width="50%" align="center" valign="top">
 <h3>🤖 AI, ML & Deep Learning</h3>
 
@@ -59,7 +58,9 @@
 
 <br/><br/>
 </td>
+</tr>
 
+<tr>
 <td width="50%" align="center" valign="top">
 <h3>📊 Data Science & Analytics</h3>
 
@@ -71,7 +72,6 @@
 
 <br/><br/>
 </td>
-</tr>
 
 <td width="50%" align="center" valign="top">
 <h3>📚 Frameworks & Libraries</h3>
