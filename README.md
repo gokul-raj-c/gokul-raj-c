@@ -17,7 +17,7 @@
 ⚡ Python | Data Science | Machine Learning | Deep Learning | AI <br>
 ⚡ MCA Graduate <br>
 ⚡ Basic MERN Stack <br>
-😄 Check my ✨ [Portfolio](https://portfolio-ten-gold-57.vercel.app/) <br>
+😄 Check my ✨ [Portfolio](https://gokulrajc.vercel.app/) <br>
 
 </div>
 
